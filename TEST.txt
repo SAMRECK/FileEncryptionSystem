@@ -1,0 +1,21 @@
+Assignment 2 – IT Data Security
+Task:
+SQLi, XSS-Stored, XSS-Reflected and CSRF Exploitations
+Perform above-mentioned attacks on DVWA for medium and high security settings.
+You may use either Metasploittable 2.0 or Dojo VMs.
+Submission & Marking Scheme:
+Submission should be in single zip file and that zip file should contain multiple jpeg files only, which
+should only contain screenshots of your work in sequential order:
+Maximum Marks: 15
+
+Name of the zip file should be <RollNumber.zip> like R123456.zip
+JPEG file name should be in sequential order <RollNumber_Type_Count.jpeg> like
+R123456_SQLi_1.jpg, R123456_SQLi_2.jpg, R123456_SQLi_3.jpg...
+R123456_XSS_S_1.jpg, R123456_ XSS_S_2.jpg, R123456_ XSS_S_3.jpg...
+R123456_ XSS_R_1.jpg, R123456_ XSS_R_2.jpg, R123456_ XSS_R_3.jpg...
+R123456_CSRF_1.jpg, R123456_ CSRF_2.jpg, R123456_ CSRF_3.jpg...
+Mode of Submission:
+Submit your Zip File with desired naming convention at this drobox on or before 30 March 2018:
+https://www.dropbox.com/request/qLsWgVXAEVqIppYmw9WK
+Happy Learning!!!
+
